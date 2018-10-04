@@ -1,0 +1,6 @@
+[05-Sep-2018 08:40:40 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/joseptambunan7/public_html/qs2/storage/framework/views/1b28bd86aece6385232e326d6973b2ce5e0986e8.php on line 126
+[05-Sep-2018 08:41:26 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/joseptambunan7/public_html/qs2/storage/framework/views/1b28bd86aece6385232e326d6973b2ce5e0986e8.php on line 126
+[07-Sep-2018 04:50:27 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/joseptambunan7/public_html/qs2/storage/framework/views/57fe45f97e6d4093bfd4309b1a0a4d2f6448fc31.php on line 109
+[18-Sep-2018 09:30:01 UTC] PHP Fatal error:  Cannot use Modules\Department\Entities\Department as Department because the name is already in use in /home/joseptambunan7/public_html/qs2/Modules/Workorder/Http/Controllers/WorkorderController.php on line 18
+[24-Sep-2018 07:42:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/joseptambunan7/public_html/qs2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 332
+[25-Sep-2018 03:39:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/joseptambunan7/public_html/qs2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 326
